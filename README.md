@@ -7,3 +7,5 @@ Test fast forward
 New line
 
 New rebase
+
+TEST
